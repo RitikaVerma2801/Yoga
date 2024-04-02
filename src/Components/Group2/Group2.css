@@ -1,0 +1,60 @@
+.grp2-container {
+  background-color: #59948f;
+  padding: 100px 0px;
+}
+
+.f-size1 {
+  font-size: 60px;
+  color: white;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+.f-size2 {
+  font-size: 35px;
+  color: white;
+  font-weight: 800;
+}
+
+.text1 {
+  color: white;
+  font-weight: 300;
+  font-size: 30px;
+  text-align: center;
+  margin: 0px 300px;
+}
+
+.text2 {
+  color: white;
+  font-weight: 300;
+  font-size: 20px;
+  text-align: center;
+  margin: 0px 50px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.imgheight {
+  height: 350px;
+}
+
+
+.design2 {
+  background-image: url("../../assets/Images/designGRP2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 400px;
+  margin: 10px 90px; 
+}
+
+.design2 img{
+  padding-top: 40px;
+}
+
+
+

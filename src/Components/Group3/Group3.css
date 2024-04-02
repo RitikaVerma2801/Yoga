@@ -1,0 +1,59 @@
+.grp3-container {
+  background-image: url("../../assets/Images/bgimgGRP3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 120vh;
+  /* background-color: #f4f9f4 ; */
+  background-color: white;
+  padding-bottom: 1000px;
+
+}
+
+.f1-grp3 {
+  font-size: 72px;
+  color: #59948f;
+  font-weight: 900;
+  letter-spacing: 1px;
+  padding: 50px 0px 20px 0px;
+}
+
+.f2-grp3{
+    color: #59948f;
+    font-size: 32px;
+    text-align: center;
+    margin: 0px 400px;
+}
+
+.m-circle{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.borderTxt {
+    border: 5px solid #59948f; 
+    border-radius: 50%; 
+    width: 350px; 
+    height: 350px;
+  }
+  
+  .text1-grp3 {
+    text-align: center; 
+    color: #59948f;
+    font-weight: 700;
+    font-size: 60px;
+    padding-top: 85px ;
+  }
+
+  
+  .text2-grp3{
+    text-align: center; 
+    color: #59948f;
+    font-weight: 400;
+    font-size: 30px;
+    padding: 0px 20px 20px 20px;
+  }
+  
+  /* .paddingTxt {
+  } */
+  

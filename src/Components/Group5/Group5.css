@@ -1,0 +1,33 @@
+
+
+.m-img{
+    margin: 150px 80px;
+}
+
+.txt-containerGRP5{
+    color: #59948f;
+    background-color: white;
+    padding: 300px 100px 0px 100px;
+}
+
+
+.text1-grp5{
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.text2-grp5{
+    font-size: 30px;
+    font-weight: 350;
+}
+
+.btn-grp5{
+    background-color: #59948f;
+    color: white;
+    font-size: 23px;
+    font-weight:800;
+    border: 0;
+    border-radius: 5px;
+    padding: 15px 100px;
+    letter-spacing: 1.2px;
+}
